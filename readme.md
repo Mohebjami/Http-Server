@@ -1,4 +1,4 @@
-SimpleHTTPServer README
+Simple HTTP Server
 
 Description
 
@@ -74,9 +74,3 @@ Troubleshooting
 	•	No file selected: If you don’t select a file, the server won’t start. Ensure you select a valid HTML file before proceeding.
 	•	File not found: If the selected file doesn’t exist at the specified location, make sure the file path is correct and the file exists.
 	•	Port Already in Use: If port 8080 is already in use, the server may fail to start. You can modify the port variable in the code to use a different port if needed.
-
-License
-
-This project is open-source and can be freely used and modified. However, no warranties are provided.
-
-Feel free to customize the README further or provide additional instructions as needed.
